@@ -1,0 +1,6 @@
+@Api_Humberto_HostAddress = http://localhost:5236
+
+GET {{Api_Humberto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
